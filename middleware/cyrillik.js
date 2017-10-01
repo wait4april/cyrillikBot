@@ -1,5 +1,6 @@
 questionPool = JSON.parse(require('fs').readFileSync('data/questions.json', 'utf8'));
 goalsPool = JSON.parse(require('fs').readFileSync('data/goals.json', 'utf8'));
+sentencesPool = JSON.parse(require('fs').readFileSync('data/sentences.json', 'utf8'));
 
 module.exports = {
   startBot: function(ctx){
@@ -61,11 +62,13 @@ function answerQuestion(ctx){
   }
 
   if(cleanAnswer(message.text) == cleanAnswer(correctAnswer)){
-    ctx.reply('Perfect :)');
+    var goodResponse = parseInt(Math.random()*10)%(sentencesPool.goodResponses.length);
+    ctx.reply(sentencesPool.goodResponses[goodResponse]);
     data[message.chat.id]["totalGoodAnswer"]++;
   } else {
+    var badResponse = parseInt(Math.random()*10)%(sentencesPool.badResponses.length);
     console.log('Incorrect answer: "'+cleanAnswer(message.text)+'" expected: "'+cleanAnswer(correctAnswer)+'"');
-    ctx.reply('Nope :(. Correct answer is: '+correctAnswer);
+    ctx.reply(sentencesPool.badResponses[badResponse]+' Correct answer is: '+correctAnswer);
   }
   data[message.chat.id]["totalAnswer"]++;
   updateAccuracy(message);

@@ -1,0 +1,14 @@
+{
+  "goodResponses":[
+    "Perfect :)",
+    "Wow, correct!",
+    "Correct!",
+    "Perfect!",
+    "Oh là là, correct!"
+  ],
+  "badResponses":[
+    "Nope :(.",
+    "Sorry, wrong.",
+    "Oh no, it's wrong."
+  ]
+}
