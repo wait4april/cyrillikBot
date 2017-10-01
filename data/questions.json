@@ -1,0 +1,38 @@
+[
+  {
+    "fr": "C'est Masha",
+    "ru": "Это Маша"
+  },
+  {
+    "fr": "C'est une maison",
+    "ru": "это дом"
+  },
+  {
+    "fr": "C'est Moscou ?",
+    "ru": "Это Москва?"
+  },
+  {
+    "fr": "Non, ce n'est pas Moscou",
+    "ru": "Нет, это не Москва"
+  },
+  {
+    "fr": "Qui est-ce ?",
+    "ru": "кто это?"
+  },
+  {
+    "fr": "Qu'est-ce que c'est ?",
+    "ru": "что это?"
+  },
+  {
+    "fr": "Est-ce une chaise ? Oui, c'est une chaise",
+    "ru": "Это стул? Да, это стул"
+  },
+  {
+    "fr": "Est-ce une table ? Oui, c'est une table",
+    "ru": "Это стол? Да, это стол"
+  },
+  {
+    "fr": "c'est un chat",
+    "ru": "это кот"
+  }
+]
