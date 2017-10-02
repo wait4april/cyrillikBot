@@ -43,16 +43,16 @@
     "fr": "Je m'appelle Jean",
     "ru": "Меня зовут Жан"
   },
-  { 
+  {
     "fr": "Quelle âge as-tu ?",
     "ru": "Сколько тебе лет?"
   },
-  { 
+  {
     "fr": "D'où viens-tu ?",
     "ru": "Ты откуда?"
   },
-  { 
+  {
     "fr": "Je viens de France",
     "ru": "Я из Франции"
-  },
+  }
 ]
