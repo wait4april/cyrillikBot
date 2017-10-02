@@ -34,5 +34,25 @@
   {
     "fr": "c'est un chat",
     "ru": "это кот"
-  }
+  },
+  {
+    "fr": "Comment t'appelles-tu ?",
+    "ru": "Как тебя зовут?"
+  },
+  {
+    "fr": "Je m'appelle Jean",
+    "ru": "Меня зовут Жан"
+  },
+  { 
+    "fr": "Quelle âge as-tu ?",
+    "ru": "Сколько тебе лет?"
+  },
+  { 
+    "fr": "D'où viens-tu ?",
+    "ru": "Ты откуда?"
+  },
+  { 
+    "fr": "Je viens de France",
+    "ru": "Я из Франции"
+  },
 ]
