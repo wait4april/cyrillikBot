@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "mongodb": "^2.2.31",
     "telegraf": "^3.12.0"
   },
   "devDependencies": {},
