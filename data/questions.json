@@ -32,6 +32,62 @@
     "ru": "Это стол? Да, это стол"
   },
   {
+    "fr": "Est-ce un stylo ? Oui, c'est un stylo",
+    "ru": "Это ручка? Да, это ручка"
+  },
+  {
+    "fr": "Est-ce un camion ? Non, c'est une voiture",
+    "ru": "Это грузовик? Нет, это автомобиль"
+  },
+  {
+    "fr": "Qu'est-ce que c'est ? C'est une fenêtre",
+    "ru": "что это? Это окно"
+  },
+  {
+    "fr": "Quel est ton nom ? et toi ?",
+    "ru": "как тебя зовут? и ты?"
+  },
+  {
+    "fr": "Salut, mon nom est Natasha",
+    "ru": "Привет, меня зовут наташа"
+  },
+  {
+    "fr": "Bonjour, mon nom est Sergei",
+    "ru": "Здравствуй, меня зовут Сергей"
+  },
+  {
+    "fr": "один",
+    "ru": "Un"
+  },
+  {
+    "fr": "два",
+    "ru": "Deux"
+  },
+  {
+    "fr": "три",
+    "ru": "Trois"
+  },
+  {
+    "fr": "до свидания",
+    "ru": "Au revoir"
+  },
+  {
+    "fr": "самолет",
+    "ru": "Avion"
+  },
+  {
+    "fr": "ванная",
+    "ru": "Salle de bain"
+  },
+  {
+    "fr": "собака",
+    "ru": "Chien"
+  },
+  {
+    "fr": "рыба",
+    "ru": "Poisson"
+  },
+  {
     "fr": "c'est un chat",
     "ru": "это кот"
   },
