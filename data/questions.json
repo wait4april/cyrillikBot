@@ -1,58 +1,218 @@
 [
   {
-    "fr": "C'est Masha",
-    "ru": "Это Маша"
+    "fr":"C'est Masha",
+    "ru":"Это Маша"
   },
   {
-    "fr": "C'est une maison",
-    "ru": "это дом"
+    "fr":"C'est une maison",
+    "ru":"это дом"
   },
   {
-    "fr": "Est-ce Moscou ?",
-    "ru": "Это Москва?"
+    "fr":"Est-ce Moscou ?",
+    "ru":"Это Москва?"
   },
   {
-    "fr": "Non, ce n'est pas Moscou",
-    "ru": "Нет, это не Москва"
+    "fr":"Non, ce n'est pas Moscou",
+    "ru":"Нет, это не Москва"
   },
   {
-    "fr": "Qui est-ce ?",
-    "ru": "кто это?"
+    "fr":"Qui est-ce ?",
+    "ru":"кто это?"
   },
   {
-    "fr": "Qu'est-ce que c'est ?",
-    "ru": "что это?"
+    "fr":"Qu'est-ce que c'est ?",
+    "ru":"что это?"
   },
   {
-    "fr": "Est-ce une chaise ? Oui, c'est une chaise",
-    "ru": "Это стул? Да, это стул"
+    "fr":"Est-ce une chaise ? Oui, c'est une chaise",
+    "ru":"Это стул? Да, это стул"
   },
   {
-    "fr": "Est-ce une table ? Oui, c'est une table",
-    "ru": "Это стол? Да, это стол"
+    "fr":"Est-ce une table ? Oui, c'est une table",
+    "ru":"Это стол? Да, это стол"
   },
   {
-    "fr": "c'est un chat",
-    "ru": "это кот"
+    "fr":"Est-ce un stylo ? Oui, c'est un stylo",
+    "ru":"Это ручка? Да, это ручка"
   },
   {
-    "fr": "Comment t'appelles-tu ?",
-    "ru": "Как тебя зовут?"
+    "fr":"Est-ce un camion ? Non, c'est une voiture",
+    "ru":"Это грузовик? Нет, это автомобиль"
   },
   {
-    "fr": "Je m'appelle Jean",
-    "ru": "Меня зовут Жан"
+    "fr":"Qu'est-ce que c'est ? C'est une fenêtre",
+    "ru":"что это? Это окно"
   },
-  { 
-    "fr": "Quelle âge as-tu ?",
-    "ru": "Сколько тебе лет?"
+  {
+    "fr":"Quel est ton nom ? et toi ?",
+    "ru":"как тебя зовут? и ты?"
   },
-  { 
-    "fr": "D'où viens-tu ?",
-    "ru": "Ты откуда?"
+  {
+    "fr":"Salut, mon nom est Natasha",
+    "ru":"Привет, меня зовут наташа"
   },
-  { 
-    "fr": "Je viens de France",
-    "ru": "Я из Франции"
+  {
+    "fr":"Bonjour, mon nom est Sergei",
+    "ru":"Здравствуй, меня зовут Сергей"
   },
+  {
+    "fr":"один",
+    "ru":"Un"
+  },
+  {
+    "fr":"два",
+    "ru":"Deux"
+  },
+  {
+    "fr":"три",
+    "ru":"Trois"
+  },
+  {
+    "fr":"до свидания",
+    "ru":"Au revoir"
+  },
+  {
+    "fr":"самолет",
+    "ru":"Avion"
+  },
+  {
+    "fr":"ванная",
+    "ru":"Salle de bain"
+  },
+  {
+    "fr":"собака",
+    "ru":"Chien"
+  },
+  {
+    "fr":"рыба",
+    "ru":"Poisson"
+  },
+  {
+    "fr":"c'est un chat",
+    "ru":"это кот"
+  },
+  {
+    "fr":"Comment t'appelles-tu ?",
+    "ru":"Как тебя зовут?"
+  },
+  {
+    "fr":"Je m'appelle Jean",
+    "ru":"Меня зовут Жан"
+  },
+  {
+    "fr":"Quelle âge as-tu ?",
+    "ru":"Сколько тебе лет?"
+  },
+  {
+    "fr":"D'où viens-tu ?",
+    "ru":"Ты откуда?"
+  },
+  {
+    "fr":"Je viens de France",
+    "ru":"Я из Франции"
+  },
+  {
+    "ru":"птица",
+    "fr":"Oiseau"
+  },
+  {
+    "ru":"корова",
+    "fr":"Vache"
+  },
+  {
+    "ru":"крыло",
+    "fr":"Aile"
+  },
+  {
+    "ru":"лодка",
+    "fr":"Bateau"
+  },
+  {
+    "ru":"шина",
+    "fr":"Pneu"
+  },
+  {
+    "ru":"бензин",
+    "fr":"Essence"
+  },
+  {
+    "ru":"город",
+    "fr":"Ville"
+  },
+  {
+    "ru":"улица",
+    "fr":"Rue"
+  },
+  {
+    "ru":"Дорога",
+    "fr":"Route"
+  },
+  {
+    "ru":"вокзал",
+    "fr":"Gare"
+  },
+  {
+    "ru":"мост",
+    "fr":"Pont"
+  },
+  {
+    "ru":"ресторан",
+    "fr":"Restaurant"
+  },
+  {
+    "ru":"ферма",
+    "fr":"Ferme"
+  },
+  {
+    "ru":"школа",
+    "fr":"École"
+  },
+  {
+    "ru":"офис",
+    "fr":"Bureau"
+  },
+  {
+    "ru":"комната",
+    "fr":"Pièce"
+  },
+  {
+    "ru":"Университет",
+    "fr":"Université"
+  },
+  {
+    "ru":"магазин",
+    "fr":"Magasin"
+  },
+  {
+    "ru":"театр",
+    "fr":"Théatre"
+  },
+  {
+    "ru":"библиотека",
+    "fr":"Bibliothèque"
+  },
+  {
+    "ru":"сторона",
+    "fr":"Côté"
+  },
+  {
+    "ru":"Фронт",
+    "fr":"Avant"
+  },
+  {
+    "ru":"назад",
+    "fr":"Arrière"
+  },
+  {
+    "ru":"Работа",
+    "fr":"Travail"
+  },
+  {
+    "ru":"играть",
+    "fr":"Jouer"
+  },
+  {
+    "ru":"Ходить",
+    "fr":"Marcher"
+  }
 ]
